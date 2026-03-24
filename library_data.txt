@@ -1,0 +1,7 @@
+Book|Harry Potter and the Sorcerer's Stone|J.K. Rowling|1|Fantasy|0
+Book|Introduction to Algorithms|T. H. Cormen|2|Computer Science|1
+Magazine|National Geographic|Susan Goldberg|3|202|0
+Magazine|Time|Edward Felsenthal|4|987|1
+Book|The Hobbit|J.R.R. Tolkien|5|Fantasy|0
+Magazine|Forbes|Steve Forbes|6|1050|0
+Magazine|Time Square|John Kay|7|1852|0
